@@ -113,7 +113,7 @@ Ensuring a **consistent, precise, and professional appearance** across all devic
 
 ### 💳 Checkout Page  
 - **Desktop View:**  
-  ![Checkout - Desktop](assets/images/checkout-desktop.png)  
+  ![Checkout - Desktop](/blob/main/assets/image/checkout-desktop.png)  
 - **Mobile View:**  
   ![Checkout - Mobile](assets/images/checkout-mobile.png)  
 
