@@ -101,9 +101,9 @@ Ensuring a **consistent, precise, and professional appearance** across all devic
 
 ### 🏠 Home Page  
 - **Desktop View:**  
-  ![Home Page - Desktop](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/checkout-desktop.png)  
+  ![Home Page - Desktop](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/homepage-desktop.png))  
 - **Mobile View:**  
-  ![Home Page - Mobile](assets/images/homepage-mobile.png)  
+  ![Home Page - Mobile](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/homepage-mobile.png)
 
 ### 📦 Product Page  
 - **Desktop View:**  
@@ -113,9 +113,9 @@ Ensuring a **consistent, precise, and professional appearance** across all devic
 
 ### 💳 Checkout Page  
 - **Desktop View:**  
-  ![Checkout - Desktop](/blob/main/assets/image/checkout-desktop.png)  
+  ![Checkout - Desktop](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/checkout-desktop.png))  
 - **Mobile View:**  
-  ![Checkout - Mobile](assets/images/checkout-mobile.png)  
+  ![Checkout - Mobile](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/checkout-mobile.png))  
 
 ### 🙏 Thank You Page  
 - **Desktop View:**  
