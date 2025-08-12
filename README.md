@@ -101,7 +101,7 @@ Ensuring a **consistent, precise, and professional appearance** across all devic
 
 ### 🏠 Home Page  
 - **Desktop View:**  
-  ![Home Page - Desktop](assets/images/homepage-desktop.png)  
+  ![Home Page - Desktop](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/checkout-desktop.png)  
 - **Mobile View:**  
   ![Home Page - Mobile](assets/images/homepage-mobile.png)  
 
