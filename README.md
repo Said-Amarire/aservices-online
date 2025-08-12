@@ -107,9 +107,9 @@ Ensuring a **consistent, precise, and professional appearance** across all devic
 
 ### 📦 Product Page  
 - **Desktop View:**  
-  ![Product Page - Desktop](assets/images/product-page-desktop.png)  
+  ![Product Page - Desktop](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/product-page-desktop.png)  
 - **Mobile View:**  
-  ![Product Page - Mobile](assets/images/product-page-mobile.png)  
+  ![Product Page - Mobile](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/product-page-mobile.png)  
 
 ### 💳 Checkout Page  
 - **Desktop View:**  
@@ -119,15 +119,15 @@ Ensuring a **consistent, precise, and professional appearance** across all devic
 
 ### 🙏 Thank You Page  
 - **Desktop View:**  
-  ![Thank You - Desktop](assets/images/thank-you-desktop.png)  
+  ![Thank You - Desktop](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/thank-you-desktop.png)  
 - **Mobile View:**  
-  ![Thank You - Mobile](assets/images/thank-you-mobile.png)  
+  ![Thank You - Mobile](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/thank-you-mobile.png)  
 
 ### 🔐 Login & Register Page  
 - **Desktop View:**  
-  ![Login & Register - Desktop](assets/images/login-register-desktop.png)  
+  ![Login & Register - Desktop](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/login-register-desktop.png)  
 - **Mobile View:**  
-  ![Login & Register - Mobile](assets/images/login-register-mobile.png)  
+  ![Login & Register - Mobile](https://github.com/Said-Amarire/aservices-online/blob/main/assets/image/login-register-mobile.png)  
 
 ---
 
